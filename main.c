@@ -1,4 +1,7 @@
-/*Desenvolva um programa, em Linguagem C, que seja capaz de ler uma lista de nomes digitados pelo usuário da aplicação e os inclua em uma lista encadeada criada dinamicamente. Ao final da digitação do usuário, este nomes devem ser apresentados na ordem inversa em que foram digitados.*/
+/*Desenvolva um programa, em Linguagem C, que seja capaz de ler uma lista de nomes 
+digitados pelo usuário da aplicação e os inclua em uma lista encadeada criada dinamicamente. 
+Ao final da digitação do usuário, este nomes devem ser apresentados na 
+ordem inversa em que foram digitados.*/
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -26,8 +29,6 @@ int main(){
   No* primeiro = NULL;
   No* final = NULL;
   No* no;
-
-  int i = 0;
 
   while(1){
     char *var;
