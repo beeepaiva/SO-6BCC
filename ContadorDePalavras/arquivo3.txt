@@ -1,0 +1,8 @@
+be be be 
+arquivo
+contar
+palavras
+teste
+1 2 3
+espaço
+arquivo 3
